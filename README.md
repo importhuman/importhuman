@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there, I'm Ujjwal! 👋
 
-<!--
-**importhuman/importhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- I am a self taught programmer and an open source enthusiast.
+- My main areas of interest are back-end development and DevOps.
+- I am currently contributing to [Cloud Native Buildpacks](https://github.com/buildpacks) and [Linkerd](https://github.com/linkerd). I have also contributed to [Hugo](https://github.com/gohugoio/hugo) and some small projects. :man_technologist:
+- I have a Bachelors degree in Biochemistry! :man_scientist:
 
-Here are some ideas to get you started:
+## Tech stack
+- Go
+- Python
+- JavaScript
+- React.js
+- PostgreSQL
+- Docker & Kubernetes fundamentals
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=importhuman)](https://github.com/anuraghazra/github-readme-stats)
+
+
