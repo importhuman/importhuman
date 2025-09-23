@@ -1,11 +1,15 @@
 ### Hey there, I'm Ujjwal! 👋
 
 ## About me
-- I am a self taught programmer and an open source enthusiast.
-- My main areas of interest are back-end development and DevOps.
-- I have contributed to [Cloud Native Buildpacks](https://github.com/buildpacks) and [Linkerd](https://github.com/linkerd), along with [Hugo](https://github.com/gohugoio/hugo) and some small projects. :man_technologist:
-- I have a Bachelors degree in Biochemistry! :man_scientist:
 
-[![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=importhuman)](https://github.com/anuraghazra/github-readme-stats)
+Problem solver first, software engineer second.\
+Sugar addict – always.
 
+## Beyond Tech
 
+Self proclaimed cricket expert. My batting style is right-hand free wicket and bowling style is extras.\
+My humor is like new food - might be great, might be horrible, depending on your tastes.\
+Movies and tv shows provide me a getaway from unpleasant realities like climate change.\
+Manga and anime connoisseur, mostly shonen.\
+Trying to fall back in love with books.\
+Always up for a good meme.
